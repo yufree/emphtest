@@ -58,4 +58,4 @@ jobs:
        with:
          email: ${{ secrets.EMAIL }}
          build_dir: public  # optional
-         cname: golemverse.org # optional
+         
